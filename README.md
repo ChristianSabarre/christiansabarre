@@ -1,5 +1,11 @@
-## Hi there 👋
+# Christian Sabarre 
 
+I'm a BS Information Systems Student specializing in Data Science in De La Salle College of Saint Benilde aspiring to be a Data Scientist / AI Engineer.
+
+## 📫 Connect with Me
+
+- Lets connect and work together, my email is ianchristiansabarre@gmail.com
+- Check out my <a href="https://christiansabarre.github.io/ChristianPortfolio/"> Portfolio </a> and my <a href="https://www.linkedin.com/in/christian-sabarre-990156288"> LinkedIn </a>
 <!--
 **ChristianSabarre/christiansabarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
